@@ -11,6 +11,7 @@ I'm - Vladislav, software engineer with expirience in...
 
 ## Contacts:
 
+- [Telegram](https://t.me/wh0X_Xam1)
 - [Email](henkel@vladislav@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/vladislav-henkel-8b1896218/)
 - [Blog (RU)](https://t.me/my_dev_logs)
