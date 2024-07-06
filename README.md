@@ -1,4 +1,11 @@
-## Hi there 👋
+### Contacts:
+- [t.me/wh0X_Xam1](https://t.me/wh0X_Xam1)
+- [linkedin](https://www.linkedin.com/in/vladislav-henkel-8b1896218/)
+
+### Blog (RUS):
+- [t.me/my_dev_logs](https://t.me/my_dev_logs)
+
+
 
 <!--
 **henkel-v/henkel-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
