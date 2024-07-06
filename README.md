@@ -16,6 +16,7 @@ I'm - Vladislav, software engineer with expirience in...
 - [LinkedIn](https://www.linkedin.com/in/vladislav-henkel-8b1896218/)
 - [Blog (RU)](https://t.me/my_dev_logs)
 
+### Personal projects down there 👇
 <!--
 **henkel-v/henkel-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
